@@ -5,3 +5,4 @@ Observaciones:
   2.Algunos cambios en las estructuras:
     -Estructura key
     -Vector keys ahora es un vector de punteros a key
+    -Btree tiene un vector que contiene todos sus nodos
